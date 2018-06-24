@@ -10,7 +10,7 @@
 
 In this lab, we'll be working with a school domain model. Our application has users that are either teachers or students. Teachers and students will share certain attributes and have certain behaviors that are unique to them. You'll be defining a `User` class that both students and teachers inherit from and you'll be writing methods within both the `Teacher` and `Student` class that are unique to that class. 
 
-## Instructions
+## Instructifons
 
 Run the test suite to get started. This is a test-driven lab. 
 
